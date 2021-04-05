@@ -1,0 +1,2254 @@
+﻿Region_of_Origin,District_of_Origin,County_of_Origin,Region_of_Public_Transportation,District_of_Public_Transportation,County_of_Public_Transportation,Dicofre_ParishCode_of_Public_Transportation,Demand_weight
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.307323
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.069997
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.066059
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.059847
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.052341
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.049032
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.039779
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.038691
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.037827
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.0378
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.037224
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.029157
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.022297
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.021183
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.020464
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.017371
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.016269
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.012837
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.012542
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.012425
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.01003
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.006472
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.00597
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.00429
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.00256
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.001757
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.001385
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.001258
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LOURES,110726,0.001094
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000919
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000785
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000722
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000671
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000493
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000259
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PORTO,131216,0.000184
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000131
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PORTO,131217,0.000084
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000064
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000064
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000038
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000031
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PORTO,131218,0.000026
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000026
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,VALONGO,131505,0.000024
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PORTO,131211,0.000023
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000023
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,MAIA,130619,0.000019
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000016
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000016
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PORTO,131210,0.000013
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,VALONGO,131503,0.00001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,VALONGO,131501,0.000009
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000009
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000008
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000007
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000007
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PORTO,131202,0.000007
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000004
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000004
+R1 - AM Lisboa,Lisboa,Amadora,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000003
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,VALONGO,131506,0.000003
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000003
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000003
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000003
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PORTO,131203,0.000002
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000002
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PAREDES,131019,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PAREDES,131013,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PAREDES,131001,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,PAREDES,131011,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,MAIA,130603,0.000001
+R1 - AM Lisboa,Lisboa,Amadora,R2 - AM Porto,PORTO,MAIA,130601,0.000001
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.1343
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.087703
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.081601
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.068546
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.067673
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.059552
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.059341
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.048569
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.042587
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.040948
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.038394
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.035949
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.031596
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.030572
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.024232
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.02235
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.021105
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.020282
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.018961
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.013411
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.012955
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.011689
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.009247
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.006365
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.004839
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LOURES,110726,0.001387
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.001136
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PORTO,131217,0.000836
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000452
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000434
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PORTO,131216,0.000347
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000341
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000311
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000305
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000211
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000197
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000163
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PORTO,131218,0.000146
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.00014
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000078
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PORTO,131202,0.000074
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000066
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000066
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000064
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000052
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PORTO,131211,0.000044
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000043
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000043
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PORTO,131203,0.000035
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130619,0.000035
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VALONGO,131505,0.000032
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PORTO,131210,0.00003
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000025
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VALONGO,131503,0.000015
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000015
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000012
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000011
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000011
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000011
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130601,0.00001
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000009
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000009
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000007
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130609,0.000006
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000005
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000003
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VALONGO,131501,0.000003
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000003
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VALONGO,131506,0.000002
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130603,0.000001
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130616,0.000001
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PAREDES,131001,0.000001
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000001
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000001
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000001
+R1 - AM Lisboa,Lisboa,Cascais,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000001
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130620,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130618,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PAREDES,131011,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PAREDES,131019,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,PAREDES,131013,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130617,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,MAIA,130608,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,GONDOMAR,130415,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,GONDOMAR,130414,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0
+R1 - AM Lisboa,Lisboa,Cascais,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.162226
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.076267
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.068806
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.067214
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.060499
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.055143
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.050321
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.048039
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.047014
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.046308
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.046279
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.041707
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.040948
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.039357
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.029981
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.022071
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.017475
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.017399
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.017145
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.014596
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.009387
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.005856
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.004547
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.002638
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.002521
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PORTO,131210,0.001403
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.001133
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LOURES,110726,0.001039
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PORTO,131217,0.000537
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000378
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000347
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000207
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000205
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PORTO,131202,0.000117
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000099
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000089
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000081
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000079
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PORTO,131218,0.000068
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PORTO,131216,0.00006
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PORTO,131211,0.000055
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PORTO,131203,0.000048
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130619,0.00004
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000034
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000033
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000033
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130617,0.00002
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130601,0.000019
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000016
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VALONGO,131503,0.000014
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000013
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000013
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,GONDOMAR,130408,0.00001
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000009
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000008
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000007
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000005
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000004
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000004
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000003
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000003
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000003
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VALONGO,131501,0.000003
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130609,0.000002
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130608,0.000002
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000002
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VALONGO,131505,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VALONGO,131506,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130603,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130620,0.000001
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130618,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,GONDOMAR,130415,0
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,AMADORA,111516,0
+R1 - AM Lisboa,Lisboa,Lisboa,R1 - AM Lisboa,LISBOA,SINTRA,111126,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130616,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,MAIA,130613,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,TROFA,131811,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PAREDES,131013,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PAREDES,131001,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PAREDES,131011,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,PAREDES,131019,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,TROFA,131806,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA DO CONDE,131611,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,TROFA,131809,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0
+R1 - AM Lisboa,Lisboa,Lisboa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.24121
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.205461
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.124824
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.056452
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LOURES,110726,0.035846
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.032402
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.030997
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.030715
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.029977
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.026386
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.024225
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.019116
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.016486
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.016433
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.013545
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.012958
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.01203
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.011091
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.009284
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LOURES,110727,0.008091
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.006876
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.006788
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.006293
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.00561
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.00417
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.004124
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.002606
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.001822
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.001821
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000417
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000295
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000202
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000171
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000169
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000148
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,PORTO,131210,0.000138
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,PORTO,131217,0.000123
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000088
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000074
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000074
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000072
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,PORTO,131218,0.000071
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000034
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000034
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000033
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000029
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000029
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,PORTO,131216,0.000028
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000027
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000026
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000015
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,PORTO,131202,0.000014
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000012
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000012
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MAIA,130608,0.000011
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000003
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000002
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000002
+R1 - AM Lisboa,Lisboa,Loures,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000002
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,PORTO,131203,0.000002
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000002
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000001
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000001
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MATOSINHOS,130811,0
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MAIA,130618,0
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,GONDOMAR,130408,0
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MAIA,130601,0
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,PORTO,131211,0
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MAIA,130617,0
+R1 - AM Lisboa,Lisboa,Loures,R2 - AM Porto,PORTO,MAIA,130609,0
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.165056
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.089209
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.078502
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.066473
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.064407
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.061527
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.051181
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.050233
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.046586
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.041734
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.035672
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.033026
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.032456
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.030403
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.02828
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.02457
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.020064
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.020032
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.015463
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.013647
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.008925
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.004597
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.004268
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.003307
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.003077
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.002091
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.001338
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000744
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000484
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000476
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LOURES,110726,0.00036
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000285
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000247
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000205
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000194
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000112
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000078
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000077
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000069
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000069
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,PORTO,131202,0.000067
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,PORTO,131217,0.000059
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000047
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000041
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000035
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000035
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000025
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,PORTO,131203,0.000021
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.00002
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000019
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000019
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,PORTO,131218,0.000014
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000013
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.00001
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LOURES,110728,0.00001
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,PORTO,131216,0.000008
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000007
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000006
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000005
+R1 - AM Lisboa,Lisboa,Mafra,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000005
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000005
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MAIA,130609,0.000002
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,PORTO,131210,0.000002
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,PORTO,131211,0.000001
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000001
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,VALONGO,131503,0.000001
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MAIA,130616,0
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,VALONGO,131501,0
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MAIA,130603,0
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,GONDOMAR,130412,0
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MAIA,130601,0
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,MAIA,130617,0
+R1 - AM Lisboa,Lisboa,Mafra,R2 - AM Porto,PORTO,GONDOMAR,130415,0
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.17016
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.104564
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.090845
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.079119
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.074461
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.067301
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.060498
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.058478
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.041929
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.041113
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.024883
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.023105
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.01888
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.017579
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.015584
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.015442
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.014139
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.01375
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.011662
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.010973
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.010668
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.007413
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.007369
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.007083
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.005865
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.001428
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.001192
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.001131
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000638
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LOURES,110726,0.00059
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000469
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000354
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LOURES,110727,0.00034
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000243
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000232
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000121
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000121
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000066
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000058
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000046
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000016
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000016
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000015
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PORTO,131217,0.000013
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.00001
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000007
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PORTO,131218,0.000006
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,VALONGO,131503,0.000004
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000003
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000003
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000002
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PORTO,131216,0.000002
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000002
+R1 - AM Lisboa,Lisboa,Odivelas,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000001
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,MAIA,130601,0.000001
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,VALONGO,131505,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PORTO,131211,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,GONDOMAR,130412,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PORTO,131210,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,VALONGO,131501,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,MATOSINHOS,130812,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,MAIA,130619,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,MATOSINHOS,130814,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,GONDOMAR,130413,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PORTO,131202,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,GONDOMAR,130408,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,MAIA,130603,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,VALONGO,131506,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PAREDES,131019,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PAREDES,131001,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PAREDES,131011,0
+R1 - AM Lisboa,Lisboa,Odivelas,R2 - AM Porto,PORTO,PAREDES,131013,0
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.246656
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.123773
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.073892
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.063808
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.050383
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.046869
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.046313
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.043705
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.03463
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.03397
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.033581
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.032917
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.030884
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.024332
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.023182
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.019036
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.014639
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.01274
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.009609
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.007229
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.006674
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.00647
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.004713
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.002896
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LOURES,110726,0.001341
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.001335
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.001333
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000684
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000504
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.00039
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PORTO,131217,0.000386
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PORTO,131218,0.000285
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000237
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000166
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000047
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000043
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PORTO,131210,0.000035
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000034
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000034
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PORTO,131216,0.000031
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.00003
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000028
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PORTO,131203,0.000025
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000019
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000017
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000014
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000014
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000011
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VALONGO,131505,0.000008
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PORTO,131202,0.000007
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000006
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000005
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PORTO,131211,0.000005
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MAIA,130619,0.000004
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000003
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000002
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MAIA,130609,0.000002
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000002
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MAIA,130601,0.000002
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VALONGO,131503,0.000001
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000001
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000001
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MAIA,130608,0.000001
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000001
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000001
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000001
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000001
+R1 - AM Lisboa,Lisboa,Oeiras,R1 - AM Lisboa,LISBOA,LOURES,110731,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,GONDOMAR,130412,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MATOSINHOS,130813,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MAIA,130617,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,GONDOMAR,130413,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VALONGO,131501,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,GONDOMAR,130408,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MAIA,130603,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,GONDOMAR,130415,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,MAIA,130618,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PAREDES,131019,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,VALONGO,131506,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PAREDES,131011,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PAREDES,131013,0
+R1 - AM Lisboa,Lisboa,Oeiras,R2 - AM Porto,PORTO,PAREDES,131001,0
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.085503
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.085409
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.077038
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.076509
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.072259
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.06389
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.062815
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.059911
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.059044
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.04802
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.043454
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.034459
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.032394
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.027492
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.026228
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.026174
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.020379
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.017442
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.016054
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.012739
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.011798
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.011537
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.010977
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.00439
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.003548
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.003242
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LOURES,110726,0.001727
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.001337
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.001214
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000645
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000543
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000515
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000174
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000173
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PORTO,131217,0.000151
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000117
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.0001
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PORTO,131216,0.000095
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000094
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000075
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000075
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000033
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000022
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000021
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PORTO,131202,0.00002
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000017
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000016
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000013
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000011
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000011
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VALONGO,131505,0.00001
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PORTO,131218,0.00001
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000009
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000009
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000008
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000008
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000008
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000007
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PORTO,131210,0.000005
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000004
+R1 - AM Lisboa,Lisboa,Sintra,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000004
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PORTO,131203,0.000002
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VALONGO,131503,0.000002
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000001
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000001
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PORTO,131211,0.000001
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VALONGO,131506,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MAIA,130609,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MAIA,130601,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VALONGO,131501,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PAREDES,131011,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PAREDES,131013,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PAREDES,131001,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,PAREDES,131019,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,GONDOMAR,130408,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MAIA,130619,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MAIA,130616,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MAIA,130603,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0
+R1 - AM Lisboa,Lisboa,Sintra,R2 - AM Porto,PORTO,MAIA,130617,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.210287
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.180072
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.07881
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.067335
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.053413
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.046127
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.042327
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.040052
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.033503
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.028281
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.026632
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.026394
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.022528
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.020385
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.019962
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.018998
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.016061
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.014926
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.014718
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.00813
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LOURES,110727,0.006663
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.006358
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.004595
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.004062
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.003867
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LOURES,110726,0.002203
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.001184
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.001025
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000312
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000101
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000097
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.00007
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000067
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,PORTO,131218,0.000066
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000056
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000053
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000045
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000041
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000032
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,PORTO,131217,0.00003
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000029
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000029
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000019
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.00001
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.00001
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000005
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,PORTO,131203,0.000004
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MAIA,130601,0.000004
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000003
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000003
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000003
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000003
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000003
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000002
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,PORTO,131210,0.000001
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,VALONGO,131505,0.000001
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MAIA,130619,0.000001
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000001
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000001
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MAIA,130609,0.000001
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,PORTO,131202,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,SINTRA,111126,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R1 - AM Lisboa,LISBOA,AMADORA,111516,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,VALONGO,131506,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,GONDOMAR,130415,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,PORTO,131216,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,PORTO,131211,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MAIA,130616,0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,R2 - AM Porto,PORTO,MAIA,130617,0
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.592367
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.166229
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.085125
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.057504
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.018224
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.017334
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.010543
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.010402
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.009406
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.009056
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LOURES,110726,0.007683
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.004478
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.00361
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.002258
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.001413
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.001209
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000869
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.000765
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000422
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000367
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000367
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000085
+R1 - AM Lisboa,Setúbal,Alcochete,R2 - AM Porto,PORTO,PORTO,131203,0.000077
+R1 - AM Lisboa,Setúbal,Alcochete,R2 - AM Porto,PORTO,PORTO,131217,0.000077
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000076
+R1 - AM Lisboa,Setúbal,Alcochete,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000058
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.154564
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.146066
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.130056
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.092459
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.091142
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.064962
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.054495
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.047561
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.046044
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.035885
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.024549
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.021717
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.019112
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.017587
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.012287
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.008546
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.00731
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.006422
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.005196
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.004245
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.001949
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.001141
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.001141
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.001101
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000754
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.000722
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000501
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000418
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000405
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000394
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000345
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000157
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.00014
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000121
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,PORTO,131218,0.000105
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000102
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000073
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,PORTO,131217,0.000055
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000033
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000014
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000013
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000013
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000013
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000011
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,PORTO,131210,0.00001
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,PORTO,131216,0.000009
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000009
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000009
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000008
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MAIA,130601,0.000006
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000006
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,PORTO,131202,0.000004
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000004
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000002
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,PORTO,131211,0.000002
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000002
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000002
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,VALONGO,131503,0.000002
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000002
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,PORTO,131203,0.000001
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MAIA,130609,0.000001
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000001
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MAIA,130608,0
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MAIA,130617,0
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,SINTRA,111126,0
+R1 - AM Lisboa,Setúbal,Almada,R1 - AM Lisboa,LISBOA,AMADORA,111516,0
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MAIA,130619,0
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MAIA,130616,0
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,MAIA,130603,0
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,VALONGO,131501,0
+R1 - AM Lisboa,Setúbal,Almada,R2 - AM Porto,PORTO,GONDOMAR,130412,0
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.232944
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.118159
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.10959
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.084106
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.051034
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.049089
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.046854
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.040399
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.039927
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.034305
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.025968
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.02413
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.017988
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.016016
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.015719
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.014854
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.012074
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.011098
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.01
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.009767
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.009199
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.006483
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.004015
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.003694
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.003661
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.003396
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.001671
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000832
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000533
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000402
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000351
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.00026
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PORTO,131202,0.000245
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PORTO,131218,0.000169
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000156
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PORTO,131217,0.000149
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000134
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PORTO,131203,0.00011
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000093
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000088
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000088
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.00006
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000044
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000029
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000022
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000022
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000014
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000012
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VALONGO,131506,0.000009
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000006
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PORTO,131216,0.000005
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PORTO,131210,0.000003
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,MAIA,130619,0.000003
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000002
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,MAIA,130609,0.000002
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VALONGO,131505,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PAREDES,131001,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PAREDES,131013,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PAREDES,131011,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PORTO,131211,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VALONGO,131501,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,PAREDES,131019,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000001
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,LOURES,110728,0
+R1 - AM Lisboa,Setúbal,Barreiro,R1 - AM Lisboa,LISBOA,AMADORA,111515,0
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.415096
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.10272
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.06599
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.056444
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.055002
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.036746
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.035935
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.032796
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.028876
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.025406
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.023912
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.014806
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.014239
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.013677
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.013599
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.012776
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.01251
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.009714
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.009188
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.003942
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.003739
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.003719
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.0033
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.001249
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000755
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,PORTO,131210,0.000575
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000515
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000473
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000245
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000221
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000218
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000206
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000206
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000205
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,VALONGO,131503,0.000185
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000167
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LOURES,110726,0.00011
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000089
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000063
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000063
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000055
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000049
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,VALONGO,131501,0.00004
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,PORTO,131211,0.000036
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000034
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000023
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000019
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000015
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000011
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,MAIA,130601,0.000005
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000005
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000005
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000005
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,MAIA,130603,0.000005
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,PORTO,131202,0.000004
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,MAIA,130617,0.000004
+R1 - AM Lisboa,Setúbal,Moita,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000003
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000003
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000003
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000001
+R1 - AM Lisboa,Setúbal,Moita,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000001
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.264795
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.231253
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.093472
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.0783
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.051517
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.047371
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.037104
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.035626
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.022592
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.022479
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.021663
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.011709
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.010902
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.01083
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.009393
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.009177
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.007933
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LOURES,110726,0.007153
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LOURES,110727,0.006602
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.005358
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.004581
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.002888
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.002261
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.001545
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.001415
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000804
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000501
+R1 - AM Lisboa,Setúbal,Montijo,R2 - AM Porto,PORTO,PORTO,131218,0.00018
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000098
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000078
+R1 - AM Lisboa,Setúbal,Montijo,R2 - AM Porto,PORTO,PORTO,131216,0.000063
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000053
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000052
+R1 - AM Lisboa,Setúbal,Montijo,R2 - AM Porto,PORTO,MAIA,130601,0.000041
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000037
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000037
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000034
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000024
+R1 - AM Lisboa,Setúbal,Montijo,R2 - AM Porto,PORTO,PORTO,131217,0.000014
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000008
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000008
+R1 - AM Lisboa,Setúbal,Montijo,R2 - AM Porto,PORTO,PORTO,131211,0.000006
+R1 - AM Lisboa,Setúbal,Montijo,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000006
+R1 - AM Lisboa,Setúbal,Montijo,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000006
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000006
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000006
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000006
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000006
+R1 - AM Lisboa,Setúbal,Montijo,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000004
+R1 - AM Lisboa,Setúbal,Montijo,R2 - AM Porto,PORTO,PORTO,131210,0.000001
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.188608
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.171416
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.092639
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.061154
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.059992
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.055155
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.05463
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.050648
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.04761
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.038098
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.035675
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.029183
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.022496
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.017501
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.014149
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.014081
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.012468
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.007506
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LOURES,110726,0.005786
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.004661
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.004351
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.00294
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.001958
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.001838
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LOURES,110727,0.001508
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000804
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.00075
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000634
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.00036
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000244
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000244
+R1 - AM Lisboa,Setúbal,Palmela,R2 - AM Porto,PORTO,PORTO,131216,0.000204
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000136
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000086
+R1 - AM Lisboa,Setúbal,Palmela,R2 - AM Porto,PORTO,PORTO,131218,0.000072
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000071
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000063
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000053
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000051
+R1 - AM Lisboa,Setúbal,Palmela,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000035
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000023
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000023
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000023
+R1 - AM Lisboa,Setúbal,Palmela,R2 - AM Porto,PORTO,PORTO,131217,0.000019
+R1 - AM Lisboa,Setúbal,Palmela,R2 - AM Porto,PORTO,PORTO,131202,0.000018
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000007
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000007
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000007
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000007
+R1 - AM Lisboa,Setúbal,Palmela,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000007
+R1 - AM Lisboa,Setúbal,Palmela,R2 - AM Porto,PORTO,PORTO,131203,0.000001
+R1 - AM Lisboa,Setúbal,Palmela,R2 - AM Porto,PORTO,MAIA,130601,0.000001
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.19751
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.113524
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.108018
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.090492
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.068947
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.053725
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.048959
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.048219
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.04076
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.039763
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.032236
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.022457
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.021845
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.019252
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.016615
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.014045
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.012846
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.01275
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.010648
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.006637
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.006195
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.003005
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.002592
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.001876
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000893
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000893
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000885
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000863
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000581
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000555
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000363
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,PORTO,131210,0.000252
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000246
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,PORTO,131217,0.000183
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,PORTO,131218,0.000183
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000173
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000166
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000151
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000137
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000113
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000112
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,PORTO,131203,0.000069
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,PORTO,131202,0.000036
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000036
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000028
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000021
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,PORTO,131216,0.00002
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000018
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000016
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VALONGO,131503,0.00001
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.00001
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000009
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000008
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130601,0.000007
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000007
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000006
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000003
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130619,0.000003
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130609,0.000003
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,PORTO,131211,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,GONDOMAR,130415,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000002
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130620,0.000001
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130618,0.000001
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130603,0.000001
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VALONGO,131505,0.000001
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VALONGO,131501,0
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130608,0
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130616,0
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,GONDOMAR,130413,0
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,VALONGO,131506,0
+R1 - AM Lisboa,Setúbal,Seixal,R2 - AM Porto,PORTO,MAIA,130617,0
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.187554
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.125825
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.116094
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.099162
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.080529
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.060694
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.060559
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.040206
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.036552
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.030243
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.029593
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.024302
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.021222
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.018594
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.013324
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.012814
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.007632
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.00625
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.005485
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.004914
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.00356
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.002931
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.002463
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.001921
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.001921
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.00126
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000783
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000627
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000617
+R1 - AM Lisboa,Setúbal,Sesimbra,R2 - AM Porto,PORTO,PORTO,131217,0.000546
+R1 - AM Lisboa,Setúbal,Sesimbra,R2 - AM Porto,PORTO,PORTO,131210,0.000394
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000392
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000307
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000134
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.00013
+R1 - AM Lisboa,Setúbal,Sesimbra,R2 - AM Porto,PORTO,PORTO,131211,0.000098
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000071
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000071
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000071
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000059
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000058
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000021
+R1 - AM Lisboa,Setúbal,Sesimbra,R2 - AM Porto,PORTO,PORTO,131216,0.000012
+R1 - AM Lisboa,Setúbal,Sesimbra,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000005
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.125811
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.090242
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.088904
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.066261
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.064895
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.062193
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.060358
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.057095
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.056198
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.048691
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.045162
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.044237
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.031131
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.026105
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.02019
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.019878
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.019529
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.014539
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.01322
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.010859
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.010458
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.008731
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.005529
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.002553
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LOURES,110726,0.002297
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.0015
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.001312
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000443
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000354
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000323
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.000264
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000175
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000169
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000075
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000075
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000071
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000038
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000038
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000023
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000019
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000015
+R1 - AM Lisboa,Setúbal,Setúbal,R2 - AM Porto,PORTO,PORTO,131218,0.00001
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000008
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LOURES,110707,0.000005
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LOURES,110730,0.000005
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000005
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,LOURES,110728,0.000005
+R1 - AM Lisboa,Setúbal,Setúbal,R2 - AM Porto,PORTO,PORTO,131216,0.000002
+R1 - AM Lisboa,Setúbal,Setúbal,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0.000001
+R1 - AM Lisboa,Setúbal,Setúbal,R2 - AM Porto,PORTO,PORTO,131203,0.000001
+R1 - AM Lisboa,Setúbal,Setúbal,R2 - AM Porto,PORTO,PORTO,131217,0
+R1 - AM Lisboa,Setúbal,Setúbal,R2 - AM Porto,PORTO,MATOSINHOS,130814,0
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,PORTO,131218,0.439698
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,PORTO,131217,0.367663
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.087938
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,PORTO,131216,0.042441
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.014908
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.008064
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.006784
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.005491
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.003697
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,PORTO,131210,0.003549
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.003389
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.002214
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.002189
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.002162
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,PORTO,131203,0.001927
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.001501
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.00136
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.001013
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.000933
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.000814
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,MAIA,130609,0.000411
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000333
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,PORTO,131211,0.000285
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000229
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000229
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000149
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.000106
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,PORTO,131202,0.000103
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,MAIA,130616,0.000103
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000103
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000083
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.000066
+R2 - AM Porto,Aveiro,Espinho,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000039
+R2 - AM Porto,Aveiro,Espinho,R2 - AM Porto,PORTO,MAIA,130619,0.000027
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.766823
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.118622
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.025147
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.019211
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.012317
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.008589
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,PORTO,131218,0.007373
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.005209
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.003999
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.003801
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.003707
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.0035
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,PORTO,131217,0.002919
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.002373
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.002107
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.001953
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.001831
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.00144
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.001193
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.001166
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.001027
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,PORTO,131216,0.000924
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000921
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000742
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000719
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.000614
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.000588
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000236
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000144
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000122
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LOURES,110707,0.00007
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.00007
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LOURES,110730,0.00007
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.00007
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.00007
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000056
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,MAIA,130609,0.000051
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,PORTO,131203,0.000044
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000036
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,PORTO,131211,0.000027
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000025
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000022
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000021
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,MAIA,130616,0.000021
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000011
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,PORTO,131210,0.000006
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000006
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000005
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,R2 - AM Porto,PORTO,PORTO,131202,0.000002
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,PORTO,131218,0.488625
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,PORTO,131216,0.151187
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,PORTO,131217,0.131608
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.070989
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.036971
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.030481
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,PORTO,131210,0.023321
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.012134
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.00605
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.004607
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.004172
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.003819
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.003113
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,PORTO,131203,0.002972
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.002453
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,PORTO,131202,0.002447
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.002424
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.002248
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.002223
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.002153
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.001816
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.001706
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.001645
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.001625
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,PORTO,131211,0.001135
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.000834
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000805
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.000789
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000733
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MAIA,130609,0.000718
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.000611
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.000387
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MAIA,130619,0.00037
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000351
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000293
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.000282
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000259
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.000198
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.000175
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.00015
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000128
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000101
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000092
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MAIA,130617,0.000069
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000066
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000058
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.000057
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MAIA,130616,0.000054
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000051
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000045
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.000037
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000035
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0.000032
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0.000032
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0.000032
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000032
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000029
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000027
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000026
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000023
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MAIA,130601,0.000018
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000012
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000012
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000011
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MAIA,130620,0.00001
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,MAIA,130618,0.00001
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000007
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000005
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,GONDOMAR,130415,0.000003
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,VALONGO,131503,0.000002
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000002
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000002
+R2 - AM Porto,Aveiro,Santa Maria da Feira,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000001
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.162432
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.136055
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.129222
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.101018
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.091014
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.071877
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.065224
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.047146
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.040608
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.030912
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.018048
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.013818
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.013267
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.010152
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.010152
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.010152
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.009732
+R2 - AM Porto,Aveiro,São João da Madeira,R2 - AM Porto,PORTO,PORTO,131218,0.005095
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.004512
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.004512
+R2 - AM Porto,Aveiro,São João da Madeira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.003542
+R2 - AM Porto,Aveiro,São João da Madeira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.003262
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.002538
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.002538
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.001662
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.001662
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.001128
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.001128
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.001128
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.001128
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.001089
+R2 - AM Porto,Aveiro,São João da Madeira,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.000885
+R2 - AM Porto,Aveiro,São João da Madeira,R2 - AM Porto,PORTO,PORTO,131216,0.00078
+R2 - AM Porto,Aveiro,São João da Madeira,R2 - AM Porto,PORTO,PORTO,131203,0.00078
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,SINTRA,111126,0.000282
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000282
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000282
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000282
+R2 - AM Porto,Aveiro,São João da Madeira,R1 - AM Lisboa,LISBOA,AMADORA,111516,0.000282
+R2 - AM Porto,Aveiro,São João da Madeira,R2 - AM Porto,PORTO,PORTO,131217,0.000195
+R2 - AM Porto,Aveiro,São João da Madeira,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000195
+R2 - AM Porto,Aveiro,Vale de Cambra,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.480464
+R2 - AM Porto,Aveiro,Vale de Cambra,R2 - AM Porto,PORTO,PORTO,131203,0.278909
+R2 - AM Porto,Aveiro,Vale de Cambra,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.069727
+R2 - AM Porto,Aveiro,Vale de Cambra,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.03559
+R2 - AM Porto,Aveiro,Vale de Cambra,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.03559
+R2 - AM Porto,Aveiro,Vale de Cambra,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.03559
+R2 - AM Porto,Aveiro,Vale de Cambra,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.03559
+R2 - AM Porto,Aveiro,Vale de Cambra,R2 - AM Porto,PORTO,GONDOMAR,130413,0.017432
+R2 - AM Porto,Aveiro,Vale de Cambra,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.009856
+R2 - AM Porto,Aveiro,Vale de Cambra,R2 - AM Porto,PORTO,PORTO,131216,0.000861
+R2 - AM Porto,Aveiro,Vale de Cambra,R2 - AM Porto,PORTO,PORTO,131210,0.000099
+R2 - AM Porto,Aveiro,Vale de Cambra,R2 - AM Porto,PORTO,MAIA,130619,0.000099
+R2 - AM Porto,Aveiro,Vale de Cambra,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000099
+R2 - AM Porto,Aveiro,Vale de Cambra,R2 - AM Porto,PORTO,PORTO,131218,0.000096
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PORTO,131203,0.295123
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,GONDOMAR,130408,0.191129
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PORTO,131217,0.172608
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PORTO,131210,0.073846
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PORTO,131202,0.065012
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PORTO,131218,0.033397
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.030011
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,GONDOMAR,130413,0.029845
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.027432
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.015625
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.014196
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,GONDOMAR,130415,0.012696
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.010628
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130601,0.004481
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PORTO,131216,0.003674
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VALONGO,131505,0.003259
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,GONDOMAR,130412,0.003211
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PORTO,131211,0.00238
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VALONGO,131503,0.002006
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.001832
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130617,0.00124
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130619,0.000975
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130609,0.000606
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000534
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.000493
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000434
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.00037
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.000335
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.000249
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.000242
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.00019
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000155
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.000145
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.000132
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.00013
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.000126
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.000112
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.000085
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.00008
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.000076
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VALONGO,131501,0.000074
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000074
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VALONGO,131506,0.000073
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.000065
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PAREDES,131001,0.000065
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.000061
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.000059
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130616,0.000056
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000047
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PAREDES,131013,0.000027
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PAREDES,131011,0.000027
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.000027
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,PAREDES,131019,0.000027
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000025
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.000024
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.000023
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000022
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.000017
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000013
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130608,0.00001
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130603,0.00001
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000008
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130620,0.000007
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,GONDOMAR,130414,0.000007
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130618,0.000006
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000006
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000006
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000005
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000005
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000005
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0.000003
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0.000003
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0.000003
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000003
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000003
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000002
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000001
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000001
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000001
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,AMADORA,111515,0
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,AMADORA,111513,0
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,AMADORA,111517,0
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,TROFA,131806,0
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,TROFA,131811,0
+R2 - AM Porto,Porto,Gondomar,R2 - AM Porto,PORTO,MAIA,130613,0
+R2 - AM Porto,Porto,Gondomar,R1 - AM Lisboa,LISBOA,LOURES,110728,0
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PORTO,131217,0.380782
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PORTO,131210,0.15966
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.12828
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PORTO,131202,0.070124
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130619,0.054146
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.051195
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130609,0.032153
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PORTO,131218,0.031671
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130601,0.02051
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.012533
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.009445
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PORTO,131211,0.006214
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PORTO,131203,0.006171
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,GONDOMAR,130408,0.005588
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130617,0.005277
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VALONGO,131503,0.004354
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PORTO,131216,0.002923
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.002012
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130608,0.001619
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,GONDOMAR,130413,0.001296
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.001222
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130616,0.001181
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.001054
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.00101
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,GONDOMAR,130415,0.000867
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.000805
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130620,0.000692
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.00065
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.000584
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000489
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.000484
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.000477
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130618,0.000461
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000457
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VALONGO,131505,0.000408
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.000351
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.00035
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VALONGO,131501,0.000325
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000189
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000188
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.00016
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000152
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.000151
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000145
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000136
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000134
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000112
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130603,0.000112
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.00011
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.000105
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LOURES,110726,0.00008
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000064
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.00005
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,TROFA,131811,0.000046
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,MAIA,130613,0.000046
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.00003
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.000024
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000022
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,TROFA,131806,0.000021
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PAREDES,131001,0.000015
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000012
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VALONGO,131506,0.000009
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000008
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000007
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000005
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.000005
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,TROFA,131809,0.000004
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA DO CONDE,131611,0.000004
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PAREDES,131013,0.000004
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.000004
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PAREDES,131019,0.000004
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,PAREDES,131011,0.000004
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000003
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000003
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.000002
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000001
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,GONDOMAR,130414,0.000001
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000001
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.000001
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000001
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,LISBOA,LOURES,110728,0
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0
+R2 - AM Porto,Porto,Maia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0
+R2 - AM Porto,Porto,Maia,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.409841
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.272679
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PORTO,131217,0.126859
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PORTO,131210,0.074509
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.03676
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130619,0.020598
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PORTO,131216,0.018866
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.010314
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PORTO,131218,0.009734
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PORTO,131211,0.009462
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130609,0.002349
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PORTO,131202,0.002309
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130601,0.001258
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130617,0.000666
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.000641
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000368
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PORTO,131203,0.000348
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000268
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.000219
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130608,0.000169
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.000134
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.000122
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.000107
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.000106
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000102
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.000096
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000096
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.000096
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.000095
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000089
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.000067
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.000064
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000062
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130616,0.00006
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.000053
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.000053
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VALONGO,131503,0.000039
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130620,0.000037
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.000037
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000036
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VALONGO,131501,0.000025
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000025
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130618,0.000016
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000016
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.000015
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000013
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VALONGO,131505,0.000012
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000012
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000012
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000011
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.00001
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000009
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,GONDOMAR,130415,0.000009
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000007
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130603,0.000007
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000005
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000005
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000003
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,MAIA,130613,0.000003
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,TROFA,131811,0.000003
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,TROFA,131806,0.000003
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000001
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000001
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VALONGO,131506,0.000001
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000001
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000001
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PAREDES,131011,0.000001
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.000001
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PAREDES,131019,0.000001
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PAREDES,131001,0.000001
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,PAREDES,131013,0.000001
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000001
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LISBOA,110661,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,AMADORA,111513,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,AMADORA,111517,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0
+R2 - AM Porto,Porto,Matosinhos,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,LOURES,110728,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0
+R2 - AM Porto,Porto,Matosinhos,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130619,0.12251
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PORTO,131202,0.11782
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,VALONGO,131505,0.093906
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PORTO,131203,0.070568
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,GONDOMAR,130413,0.066919
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.05101
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.049839
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.048355
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.046898
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,VALONGO,131501,0.03939
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,GONDOMAR,130408,0.033128
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PORTO,131210,0.026812
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PORTO,131217,0.023536
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,VALONGO,131506,0.021395
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130601,0.018655
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,GONDOMAR,130412,0.018623
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.015106
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.01298
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.011372
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.009678
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.008954
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.008526
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130608,0.006195
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.005973
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.005772
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.005612
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PORTO,131216,0.0048
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.004157
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130609,0.004031
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.003896
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.003862
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.003588
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.003479
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.003179
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0.002398
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.002303
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130616,0.002209
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PAREDES,131011,0.001834
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PAREDES,131013,0.001834
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.001834
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PAREDES,131019,0.001834
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PAREDES,131001,0.001834
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PORTO,131211,0.001807
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,AMADORA,111515,0.001533
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,PORTO,131218,0.001506
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,VALONGO,131503,0.001082
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130618,0.001058
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000984
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130620,0.000964
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,GONDOMAR,130415,0.000775
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.00077
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.000639
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.000474
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0.000384
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130603,0.000277
+R2 - AM Porto,Porto,Paredes,R2 - AM Porto,PORTO,MAIA,130617,0.00026
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000172
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.000172
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000146
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,AMADORA,111514,0.000098
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000096
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0.000096
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000079
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000016
+R2 - AM Porto,Porto,Paredes,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.00001
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PORTO,131217,0.365206
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PORTO,131210,0.28209
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PORTO,131211,0.08997
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.05377
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PORTO,131218,0.052283
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PORTO,131202,0.048606
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PORTO,131216,0.032568
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.026708
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PORTO,131203,0.018143
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.009556
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.005795
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.00341
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.002094
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,GONDOMAR,130408,0.002004
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130617,0.001507
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130619,0.001355
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130601,0.000679
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130609,0.000482
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.000411
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.000322
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.0003
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.000296
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000286
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VALONGO,131503,0.000269
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000139
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000127
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000111
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.000103
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.000091
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.000081
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.000077
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VALONGO,131501,0.000076
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VALONGO,131505,0.000076
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.000072
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.000071
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.000066
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000062
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.00006
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.000055
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130616,0.000055
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.000051
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.00005
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.00005
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000043
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130608,0.000039
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000037
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.000033
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130603,0.000032
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,GONDOMAR,130415,0.00003
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000028
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.000023
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130618,0.000019
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000018
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130620,0.000015
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000013
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000011
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.00001
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,TROFA,131811,0.000008
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,MAIA,130613,0.000008
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,TROFA,131806,0.000008
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000006
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000004
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000004
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VALONGO,131506,0.000003
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000003
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000003
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PAREDES,131001,0.000002
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PAREDES,131019,0.000002
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PAREDES,131013,0.000002
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,PAREDES,131011,0.000002
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.000002
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.000001
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.000001
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000001
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000001
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000001
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000001
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000001
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0.000001
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0.000001
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0.000001
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,ODIVELAS,111603,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,AMADORA,111517,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LOURES,110728,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,AMADORA,111515,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,GONDOMAR,130414,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,ODIVELAS,111610,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,ODIVELAS,111609,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,OEIRAS,111002,0
+R2 - AM Porto,Porto,Porto,R1 - AM Lisboa,LISBOA,LOURES,110731,0
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,TROFA,131809,0
+R2 - AM Porto,Porto,Porto,R2 - AM Porto,PORTO,VILA DO CONDE,131611,0
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.455933
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,PORTO,131217,0.142658
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.113192
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.092261
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,PORTO,131216,0.050232
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,PORTO,131218,0.042293
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,PORTO,131211,0.027681
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.014137
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.011427
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,PORTO,131210,0.008526
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,PORTO,131202,0.007914
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.005751
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MAIA,130609,0.005307
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.003452
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.002782
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.002749
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.00248
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.002394
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.001606
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.001593
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.00098
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.00072
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,PORTO,131203,0.000567
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.000554
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.000553
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.00046
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000446
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.000223
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000163
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.000141
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MAIA,130616,0.000134
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000108
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.000092
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.000078
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000054
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0.000042
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0.000042
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0.000042
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.000042
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.000042
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MAIA,130619,0.000027
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.000026
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MAIA,130617,0.000018
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MAIA,130620,0.000012
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MAIA,130618,0.000012
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.000009
+R2 - AM Porto,Porto,Póvoa de Varzim,R2 - AM Porto,PORTO,MAIA,130601,0.000009
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000009
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000009
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000008
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.000006
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000002
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000001
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,LISBOA,110602,0
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,AMADORA,111513,0
+R2 - AM Porto,Porto,Póvoa de Varzim,R1 - AM Lisboa,LISBOA,AMADORA,111517,0
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.210377
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,VALONGO,131501,0.203546
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.117492
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,PORTO,131210,0.107493
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.09429
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.087793
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.069217
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,MAIA,130601,0.023487
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.015593
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,VALONGO,131503,0.015391
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.008518
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.007691
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.006011
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.005318
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,MAIA,130603,0.002428
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.002428
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,GONDOMAR,130408,0.002428
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,GONDOMAR,130412,0.002428
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,PORTO,131216,0.001868
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.001733
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.001733
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.001733
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.001733
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.001733
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.001733
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.001733
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.001273
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,MAIA,130608,0.001161
+R2 - AM Porto,Porto,Santo Tirso,R2 - AM Porto,PORTO,MAIA,130620,0.001161
+R2 - AM Porto,Porto,Santo Tirso,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.000481
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,PORTO,131217,0.396178
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.14311
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.093917
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.073247
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MAIA,130601,0.071607
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.071393
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.038145
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.034405
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.014998
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.009167
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,PORTO,131210,0.00906
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,PORTO,131202,0.007556
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.006553
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.005436
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.004811
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.00287
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.002683
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.002209
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MAIA,130620,0.001826
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MAIA,130608,0.001826
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.001641
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,PORTO,131218,0.001374
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.001175
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.001109
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.000929
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000783
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,PORTO,131203,0.000343
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000331
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000277
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000138
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000127
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000069
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.000069
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,PORTO,131216,0.000053
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.000053
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0.000037
+R2 - AM Porto,Porto,Trofa,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000037
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.000037
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0.000037
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0.000037
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.000037
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.000037
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VALONGO,131501,0.000035
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VALONGO,131503,0.000035
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000035
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000035
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MAIA,130603,0.000035
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000033
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MAIA,130609,0.000033
+R2 - AM Porto,Porto,Trofa,R2 - AM Porto,PORTO,MAIA,130616,0.000033
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VALONGO,131503,0.179076
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.133503
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PORTO,131217,0.124378
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.119745
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VALONGO,131505,0.112316
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130601,0.09864
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PORTO,131203,0.034866
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PORTO,131202,0.030359
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PORTO,131218,0.02767
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,GONDOMAR,130408,0.026193
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VALONGO,131501,0.022412
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.018021
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PORTO,131210,0.012347
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PORTO,131216,0.01054
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,GONDOMAR,130413,0.009769
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,GONDOMAR,130412,0.008628
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.006815
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.00377
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VALONGO,131506,0.0031
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.002855
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130603,0.002102
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PORTO,131211,0.001943
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.001173
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130619,0.001073
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.000868
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PAREDES,131001,0.000813
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.000675
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PAREDES,131019,0.000675
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PAREDES,131013,0.000675
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,PAREDES,131011,0.000675
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130609,0.000513
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.000472
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.000422
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.0004
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000396
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000225
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130608,0.000196
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.000137
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.000132
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,GONDOMAR,130415,0.00013
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000125
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130620,0.00012
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.000119
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.000113
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000109
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.000085
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.000082
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000069
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130617,0.000057
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000047
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130616,0.000038
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000037
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.000033
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.000029
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.000026
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130618,0.000024
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000022
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.000018
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000015
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000014
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.000014
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.000013
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000011
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,MAIA,130613,0.000011
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA DO CONDE,131611,0.000011
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,TROFA,131811,0.000011
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,TROFA,131809,0.000011
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.00001
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0.000008
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.000006
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0.000004
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0.000004
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000002
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LOURES,110731,0.000002
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,GONDOMAR,130414,0.000002
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0.000001
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0.000001
+R2 - AM Porto,Porto,Valongo,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000001
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0
+R2 - AM Porto,Porto,Valongo,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.385262
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.20317
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,PORTO,131217,0.15922
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,PORTO,131218,0.037849
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.036788
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.033103
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130609,0.026477
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.017942
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,VALONGO,131503,0.015483
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,PORTO,131202,0.012239
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,PORTO,131216,0.00942
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.006444
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.006228
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.005842
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.004391
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.004131
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,PORTO,131211,0.00385
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.003574
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.003314
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.003064
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.002538
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130619,0.002424
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.002348
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,PORTO,131210,0.001762
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130616,0.001728
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,PORTO,131203,0.001467
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.00141
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.001219
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.00088
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.000865
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.000741
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.0007
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.000599
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.000593
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000444
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.000379
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000332
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130603,0.000312
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000279
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130620,0.00017
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,VALONGO,131501,0.000168
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.00016
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000098
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130618,0.000083
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000066
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,GONDOMAR,130408,0.000066
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000066
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130601,0.000066
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.000053
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000045
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0.000038
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.000034
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130617,0.000033
+R2 - AM Porto,Porto,Vila do Conde,R2 - AM Porto,PORTO,MAIA,130608,0.000013
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000011
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000005
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000005
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000005
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000005
+R2 - AM Porto,Porto,Vila do Conde,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.000001
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131730,0.352942
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PORTO,131217,0.243077
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PORTO,131218,0.15011
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131727,0.09152
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PORTO,131210,0.024565
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PORTO,131216,0.020042
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MATOSINHOS,130814,0.019229
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MATOSINHOS,130812,0.016718
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131726,0.014475
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PORTO,131202,0.013953
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131709,0.011478
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MATOSINHOS,130811,0.010917
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131704,0.00676
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MATOSINHOS,130813,0.003251
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PORTO,131203,0.002833
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PORTO,131211,0.002499
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131723,0.001095
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,GONDOMAR,130408,0.001066
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110654,0.00102
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110666,0.000942
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VALONGO,131503,0.000931
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130609,0.000833
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110659,0.000812
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130601,0.000699
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110610,0.000678
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110665,0.000617
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VALONGO,131505,0.000516
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110633,0.0005
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130619,0.000497
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110660,0.000474
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110655,0.000453
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110656,0.000426
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130617,0.000403
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110661,0.000402
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110657,0.000388
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,GONDOMAR,130413,0.000369
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VALONGO,131501,0.000247
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110667,0.000228
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131712,0.000224
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110608,0.000212
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110602,0.000209
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110658,0.000191
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110639,0.000118
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110662,0.000116
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110618,0.000114
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110663,0.000109
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110621,0.000095
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130616,0.00009
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,GONDOMAR,130412,0.000084
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130608,0.000056
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110601,0.000053
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,SANTO TIRSO,131402,0.000049
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110607,0.00004
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,AMADORA,111513,0.000035
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,GONDOMAR,130415,0.000026
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,OEIRAS,111012,0.000025
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130603,0.000021
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,AMADORA,111512,0.000019
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131703,0.000018
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131702,0.000018
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA NOVA DE GAIA,131728,0.000018
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130618,0.000016
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VALONGO,131506,0.00001
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,VILA DO CONDE,131603,0.000009
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130620,0.000009
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PAREDES,131001,0.000009
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PAREDES,131011,0.000006
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PAREDES,131013,0.000006
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,PAREDES,131019,0.000006
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,SANTO TIRSO,131401,0.000006
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LOURES,110726,0.000004
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,MAIA,130613,0.000002
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,TROFA,131806,0.000002
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,TROFA,131811,0.000002
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,AMADORA,111517,0.000002
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,OEIRAS,111013,0.000002
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LOURES,110727,0.000001
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110611,0.000001
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,LISBOA,110664,0.000001
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,SETÚBAL,ALMADA,150312,0
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,SETÚBAL,ALMADA,150314,0
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,SETÚBAL,ALMADA,150315,0
+R2 - AM Porto,Porto,Vila Nova de Gaia,R2 - AM Porto,PORTO,GONDOMAR,130414,0
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,LISBOA,ODIVELAS,111608,0
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,SETÚBAL,ALMADA,150313,0
+R2 - AM Porto,Porto,Vila Nova de Gaia,R1 - AM Lisboa,SETÚBAL,SEIXAL,151005,0
