@@ -1,0 +1,5 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+71,21638,,2 - Aerobus Financial Center (Av. José Malhoa),,3,,,
+71,21635,,1 - Aerobus City Center (Aeroporto),,3,,,
+71,21636,,1 - Aerobus City Center (Cais Sodré),,3,,,
+71,21637,,2 - Aerobus Financial Center (Aeroporto),,3,,,

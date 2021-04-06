@@ -1,0 +1,5 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+13,865,,Coina - Roma-Areeiro,,2,,,
+13,866,,Roma-Areeiro - Coina,,2,,,
+13,1078,,Setúbal - Roma-Areeiro,,2,,,
+13,1079,,Roma-Areeiro - Setúbal,,2,,,

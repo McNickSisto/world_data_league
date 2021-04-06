@@ -1,0 +1,10 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
+T29,,Barreiro,,38.65182,-9.07972,,,,
+T01,,Belém,,38.69442,-9.19836,,,,
+T05,,Cacilhas,,38.68847,-9.14736,,,,
+T04,,Cais do Sodré,,38.70509,-9.14625,,,,
+T14,,Montijo - Seixalinho,,38.70025,-9.00558,,,,
+T02,,Porto Brandão,,38.67815,-9.20694,,,,
+T09,,Seixal,,38.64716,-9.09568,,,,
+T08,,Terreiro do Paço,,38.70684,-9.13455,,,,
+T03,,Trafaria,,38.6742182067951,-9.23119084851572,,,,

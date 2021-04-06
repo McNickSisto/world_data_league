@@ -1,0 +1,9 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+2,50953,,Verde - CAIS DO SODRE,,1,,,
+2,50954,,Verde - TELHEIRAS,,1,,,
+2,170,,Vermelha - AEROPORTO,,1,,,
+2,164,,Amarela - ODIVELAS,,1,,,
+2,165,,Amarela - RATO,,1,,,
+2,166,,Azul - STª APOLÓNIA,,1,,,
+2,167,,Azul - REBOLEIRA,,1,,,
+2,171,,Vermelha - S. SEBASTIÃO,,1,,,

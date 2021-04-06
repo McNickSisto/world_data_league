@@ -1,0 +1,12 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+4,863,,Barreiro > Terreiro de Paço,,4,,,
+4,864,,Terreiro de Paço > Barreiro,,4,,,
+4,192236,,Belém > Trafaria > Porto Brandão,,4,,,
+4,172,,Belém > Porto Brandão > Trafaria,,4,,,
+4,178,,Trafaria > Porto Brandão > Belém,,4,,,
+4,183,,Montijo > Cais do Sodré,,4,,,
+4,173,,Cais do Sodré > Cacilhas,,4,,,
+4,175,,Cais do Sodré > Seixal,,4,,,
+4,177,,Cais do Sodré > Montijo,,4,,,
+4,179,,Cacilhas > Cais do Sodré,,4,,,
+4,181,,Seixal > Cais do Sodré,,4,,,

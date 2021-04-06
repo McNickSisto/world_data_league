@@ -1,0 +1,7 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+12,20729,,1 - Cacilhas,,1,,,
+12,20730,,1 - Corroios,,1,,,
+12,20731,,2 - Pragal,,1,,,
+12,20732,,2 - Corroios,,1,,,
+12,20733,,3 - Universidade,,1,,,
+12,20734,,3 - Cacilhas,,1,,,
