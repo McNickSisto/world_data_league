@@ -2,9 +2,9 @@
 Portugal,101.6,125.8,161.3
 Continente,103.8,128.6,164.1
 Norte,79.4,111.8,162.7
-Alto Minho,131.7,170.4,223
+Alto Minho,131.7,170.4,223.0
 Arcos de Valdevez,208.1,270.2,337.6
-Caminha,138.1,187,235.8
+Caminha,138.1,187.0,235.8
 Melgaço,297.4,385.3,453.8
 Monção,209.7,264.6,308.8
 Paredes de Coura,204.6,216.7,246.5
@@ -13,24 +13,24 @@ Ponte de Lima,93.1,127.3,179.3
 Valença,144.1,168.2,221.7
 Viana do Castelo,101.1,135.8,189.4
 Vila Nova de Cerveira,150.2,160.5,202.1
-Cávado,60.4,85,130.6
-Amares,75.3,95.8,151
+Cávado,60.4,85.0,130.6
+Amares,75.3,95.8,151.0
 Barcelos,53.2,83.4,140.6
-Braga,57.2,77.7,118
+Braga,57.2,77.7,118.0
 Esposende,59.5,83.5,124.5
 Terras de Bouro,128.4,186.1,261.6
 Vila Verde,74.7,101.3,142.6
 Ave,60.1,91.5,146.1
-Cabeceiras de Basto,89.5,114.9,152
-Fafe,71,102.2,165
-Guimarães,52,86.1,140.9
+Cabeceiras de Basto,89.5,114.9,152.0
+Fafe,71.0,102.2,165.0
+Guimarães,52.0,86.1,140.9
 Mondim de Basto,92.9,142.3,227.3
 Póvoa de Lanhoso,74.5,103.2,153.9
 Vieira do Minho,109.8,161.4,234.4
 Vila Nova de Famalicão,55.9,84.8,139.7
-Vizela,40,68.1,115.9
+Vizela,40.0,68.1,115.9
 Área Metropolitana do Porto,75.1,107.2,156.3
-Arouca,88.6,116.2,166
+Arouca,88.6,116.2,166.0
 Espinho,95.3,152.8,231.3
 Gondomar,62.7,96.9,154.2
 Maia,59.5,79.4,122.4
@@ -39,43 +39,43 @@ Oliveira de Azeméis,76.2,126.2,191.2
 Paredes,41.1,62.4,104.5
 Porto,145.8,195.9,218.8
 Póvoa de Varzim,58.6,85.3,134.2
-Santa Maria da Feira,59.9,94.1,148
+Santa Maria da Feira,59.9,94.1,148.0
 Santo Tirso,77.4,124.2,209.7
 São João da Madeira,71.4,107.5,159.7
-Trofa,52,84.7,141
-Vale de Cambra,102.5,166,238
-Valongo,54.7,80,126.4
-Vila do Conde,65,90,132.8
+Trofa,52.0,84.7,141.0
+Vale de Cambra,102.5,166.0,238.0
+Valongo,54.7,80.0,126.4
+Vila do Conde,65.0,90.0,132.8
 Vila Nova de Gaia,69.3,97.2,144.1
 Alto Tâmega,158.6,240.9,326.2
 Boticas,215.1,306.4,372.8
 Chaves,138.6,202.8,272.2
-Montalegre,210.2,344,471.2
-Ribeira de Pena,135,195.9,258.7
-Valpaços,185.7,307,412.4
-Vila Pouca de Aguiar,137.2,223,352.3
+Montalegre,210.2,344.0,471.2
+Ribeira de Pena,135.0,195.9,258.7
+Valpaços,185.7,307.0,412.4
+Vila Pouca de Aguiar,137.2,223.0,352.3
 Tâmega e Sousa,56.3,81.3,129.5
 Amarante,62.9,98.5,155.5
-Baião,88.1,126.5,188
+Baião,88.1,126.5,188.0
 Castelo de Paiva,67.4,94.9,151.3
 Celorico de Basto,92.5,125.1,179.8
 Cinfães,104.1,137.8,191.4
 Felgueiras,42.9,71.3,121.8
-Lousada,39.5,58,97.6
+Lousada,39.5,58.0,97.6
 Marco de Canaveses,51.8,71.1,122.9
 Paços de Ferreira,38.8,59.7,102.8
 Penafiel,49.4,72.1,115.6
 Resende,112.8,143.2,198.7
 Douro,127.6,169.7,236.2
-Alijó,159.8,241.3,311
+Alijó,159.8,241.3,311.0
 Armamar,133.7,204.7,296.8
 Carrazeda de Ansiães,219.4,305.9,348.5
 Freixo de Espada à Cinta,277.9,285.5,295.5
 Lamego,104.9,143.3,212.3
 Mesão Frio,104.2,140.3,228.6
 Moimenta da Beira,116.2,159.2,223.9
-Murça,165.1,212.2,304
-Penedono,177,209.6,289.6
+Murça,165.1,212.2,304.0
+Penedono,177.0,209.6,289.6
 Peso da Régua,95.8,140.9,212.4
 Sabrosa,150.4,198.2,275.7
 Santa Marta de Penaguião,145.1,202.1,305.8
@@ -84,28 +84,28 @@ Sernancelhe,136.6,202.7,280.9
 Tabuaço,136.5,191.2,317.7
 Tarouca,93.9,124.5,186.8
 Torre de Moncorvo,235.8,381.1,471.2
-Vila Nova de Foz Côa,216.3,275,360.8
+Vila Nova de Foz Côa,216.3,275.0,360.8
 Vila Real,94.7,118.5,170.7
 Terras de Trás-os-Montes,171.7,243.9,303.6
 Alfândega da Fé,220.2,323.9,392.3
 Bragança,140.2,179.2,219.4
 Macedo de Cavaleiros,156.4,236.2,349.2
 Miranda do Douro,236.8,318.4,388.9
-Mirandela,132,203.2,265.4
+Mirandela,132.0,203.2,265.4
 Mogadouro,209.5,323.8,407.2
 Vila Flor,178.7,259.3,333.8
 Vimioso,290.8,395.9,334.1
 Vinhais,283.9,465.8,604.4
 Centro,129.2,158.2,201.4
-Oeste,114.3,127.3,162
+Oeste,114.3,127.3,162.0
 Alcobaça,107.8,139.1,199.9
 Alenquer,107.8,104.1,126.6
 Arruda dos Vinhos,116.8,97.1,126.7
 Bombarral,147.5,161.8,204.5
 Cadaval,173.2,177.2,219.8
-Caldas da Rainha,113.7,137,173
+Caldas da Rainha,113.7,137.0,173.0
 Lourinhã,108.3,117.4,145.9
-Nazaré,110.2,133.9,172
+Nazaré,110.2,133.9,172.0
 Óbidos,142.3,150.5,189.4
 Peniche,104.8,128.7,161.9
 Sobral de Monte Agraço,113.9,102.2,122.9
@@ -118,10 +118,10 @@ Aveiro,88.4,113.9,143.4
 Estarreja,100.9,133.2,172.5
 Ílhavo,75.8,106.2,143.2
 Murtosa,114.5,121.9,151.2
-Oliveira do Bairro,117.1,129,148.6
+Oliveira do Bairro,117.1,129.0,148.6
 Ovar,68.1,101.9,156.8
 Sever do Vouga,121.8,177.5,263.1
-Vagos,91.8,127.9,167
+Vagos,91.8,127.9,167.0
 Região de Coimbra,138.5,171.4,215.6
 Arganil,188.7,255.5,278.7
 Cantanhede,142.7,190.7,237.2
@@ -131,102 +131,102 @@ Figueira da Foz,142.7,167.1,216.1
 Góis,270.2,278.8,303.7
 Lousã,107.5,100.7,141.9
 Mealhada,118.5,149.6,196.1
-Mira,130,184.9,227.2
+Mira,130.0,184.9,227.2
 Miranda do Corvo,111.8,147.7,218.9
 Montemor-o-Velho,149.7,176.7,200.8
 Mortágua,177.4,242.5,309.6
 Oliveira do Hospital,132.5,175.9,240.6
 Pampilhosa da Serra,377.6,535.7,531.1
-Penacova,147.4,196.1,293
+Penacova,147.4,196.1,293.0
 Penela,212.5,226.5,283.7
 Soure,205.2,228.5,283.6
 Tábua,152.3,171.7,212.9
-Vila Nova de Poiares,107,117.5,159
+Vila Nova de Poiares,107.0,117.5,159.0
 Região de Leiria,107.9,136.6,179.7
-Alvaiázere,225.7,293.2,345
+Alvaiázere,225.7,293.2,345.0
 Ansião,164.8,196.5,277.7
 Batalha,99.3,117.3,156.4
-Castanheira de Pêra,195.4,288,471.5
-Figueiró dos Vinhos,189.4,281,336.3
+Castanheira de Pêra,195.4,288.0,471.5
+Figueiró dos Vinhos,189.4,281.0,336.3
 Leiria,80.8,110.7,150.7
 Marinha Grande,102.8,121.5,167.7
 Pedrógão Grande,285.3,286.1,306.3
 Pombal,126.3,163.8,210.6
-Porto de Mós,107.2,135,185.1
-Viseu Dão Lafões,123.1,160.5,214
+Porto de Mós,107.2,135.0,185.1
+Viseu Dão Lafões,123.1,160.5,214.0
 Aguiar da Beira,162.9,241.8,300.5
-Carregal do Sal,130,169.1,234.4
-Castro Daire,145,196,276.9
-Mangualde,133.5,167,223.2
+Carregal do Sal,130.0,169.1,234.4
+Castro Daire,145.0,196.0,276.9
+Mangualde,133.5,167.0,223.2
 Nelas,142.9,171.7,230.2
 Oliveira de Frades,110.6,136.9,176.2
 Penalva do Castelo,158.8,221.6,300.8
 Santa Comba Dão,146.3,191.5,264.8
 São Pedro do Sul,152.7,200.1,284.2
 Sátão,121.1,166.6,243.1
-Tondela,159.9,227.7,304
+Tondela,159.9,227.7,304.0
 Vila Nova de Paiva,130.5,196.2,254.9
 Viseu,88.9,116.9,157.2
 Vouzela,148.8,215.4,300.1
-Beira Baixa,237.1,254,286.1
+Beira Baixa,237.1,254.0,286.1
 Castelo Branco,166.6,179.9,213.7
-Idanha-a-Nova,453.7,422,427.1
+Idanha-a-Nova,453.7,422.0,427.1
 Oleiros,371.5,488.6,704.6
 Penamacor,412.6,527.8,631.4
 Proença-a-Nova,245.7,321.8,388.7
-Vila Velha de Ródão,529.6,683.2,635
+Vila Velha de Ródão,529.6,683.2,635.0
 Médio Tejo,152.6,179.9,223.6
-Abrantes,184,204.2,264.2
+Abrantes,184.0,204.2,264.2
 Alcanena,141.4,169.3,213.7
 Constância,139.2,143.1,168.2
-Entroncamento,87,105.3,133.8
+Entroncamento,87.0,105.3,133.8
 Ferreira do Zêzere,201.3,217.6,263.4
 Mação,359.2,411.3,485.9
 Ourém,110.8,145.6,186.2
 Sardoal,202.6,217.6,264.8
 Sertã,184.8,209.2,271.8
-Tomar,149.8,196.4,261
+Tomar,149.8,196.4,261.0
 Torres Novas,150.8,174.6,207.1
 Vila de Rei,323.3,392.1,440.8
-Vila Nova da Barquinha,147.8,176.5,214
+Vila Nova da Barquinha,147.8,176.5,214.0
 Beiras e Serra da Estrela,173.5,227.3,287.3
 Almeida,272.3,436.2,617.4
 Belmonte,164.6,217.6,267.6
 Celorico da Beira,195.9,233.5,310.4
-Covilhã,140,189.6,257
+Covilhã,140.0,189.6,257.0
 Figueira de Castelo Rodrigo,247.2,281.8,288.1
-Fornos de Algodres,184,255.5,277.6
+Fornos de Algodres,184.0,255.5,277.6
 Fundão,174.6,220.9,273.6
 Gouveia,217.2,296.6,377.7
 Guarda,119.8,149.2,198.9
-Manteigas,148.5,238,397
+Manteigas,148.5,238.0,397.0
 Mêda,241.1,327.6,421.9
 Pinhel,216.3,286.7,391.8
 Sabugal,374.5,501.8,489.3
-Seia,153.5,230,288.2
+Seia,153.5,230.0,288.2
 Trancoso,193.5,267.9,361.2
 Área Metropolitana de Lisboa,102.2,118.6,138.2
 Área Metropolitana de Lisboa,102.2,118.6,138.2
 Alcochete,93.6,77.3,100.4
-Almada,118,130.6,155.1
-Amadora,93,132.7,149.7
+Almada,118.0,130.6,155.1
+Amadora,93.0,132.7,149.7
 Barreiro,121.5,151.6,189.8
 Cascais,98.6,103.4,129.5
 Lisboa,198.7,200.8,171.5
-Loures,77,112.2,137.9
-Mafra,95,76.2,96.4
+Loures,77.0,112.2,137.9
+Mafra,95.0,76.2,96.4
 Moita,77.4,103.1,136.4
 Montijo,113.6,96.5,101.2
 Odivelas,80.3,111.7,126.5
-Oeiras,105,125.6,159.5
-Palmela,93,98.3,127.7
+Oeiras,105.0,125.6,159.5
+Palmela,93.0,98.3,127.7
 Seixal,60.3,91.8,128.6
-Sesimbra,88,85.1,105.8
+Sesimbra,88.0,85.1,105.8
 Setúbal,94.8,106.9,144.5
 Sintra,55.7,77.8,107.9
-Vila Franca de Xira,66.4,80,114.5
+Vila Franca de Xira,66.4,80.0,114.5
 Alentejo,161.9,174.1,204.6
-Alentejo Litoral,164.4,188.2,218
+Alentejo Litoral,164.4,188.2,218.0
 Alcácer do Sal,168.5,205.1,266.4
 Grândola,197.8,196.6,214.6
 Odemira,193.3,216.7,236.3
@@ -234,15 +234,15 @@ Santiago do Cacém,157.6,190.3,223.6
 Sines,98.8,117.7,150.6
 Baixo Alentejo,175.1,180.2,191.6
 Aljustrel,177.3,212.4,231.1
-Almodôvar,227.9,234,249.5
+Almodôvar,227.9,234.0,249.5
 Alvito,212.3,198.5,197.5
 Barrancos,196.1,173.5,169.5
 Beja,139.5,135.9,148.6
 Castro Verde,160.7,175.1,194.1
 Cuba,181.8,170.4,165.7
-Ferreira do Alentejo,192.8,208,201
+Ferreira do Alentejo,192.8,208.0,201.0
 Mértola,283.9,362.4,395.1
-Moura,145.5,142.4,154
+Moura,145.5,142.4,154.0
 Ourique,288.1,296.7,314.5
 Serpa,174.2,202.3,237.9
 Vidigueira,175.5,171.8,163.3
@@ -256,8 +256,8 @@ Chamusca,184.9,238.2,290.9
 Coruche,212.7,241.8,304.1
 Golegã,157.6,175.5,235.3
 Rio Maior,118.1,136.1,176.8
-Salvaterra de Magos,130.6,144,196.6
-Santarém,145,156.7,194.4
+Salvaterra de Magos,130.6,144.0,196.6
+Santarém,145.0,156.7,194.4
 Alto Alentejo,194.1,207.9,239.6
 Alter do Chão,275.2,287.8,254.9
 Arronches,271.4,334.2,343.4
@@ -266,24 +266,24 @@ Campo Maior,133.9,131.4,159.1
 Castelo de Vide,230.3,261.5,315.2
 Crato,350.8,328.7,361.7
 Elvas,130.8,146.9,184.5
-Fronteira,216.1,219,262.5
-Gavião,434.7,449.8,429
+Fronteira,216.1,219.0,262.5
+Gavião,434.7,449.8,429.0
 Marvão,298.4,314.4,356.8
 Monforte,215.9,184.9,182.4
-Nisa,367.5,364,403.9
+Nisa,367.5,364.0,403.9
 Ponte de Sor,167.9,198.7,235.1
 Portalegre,157.5,178.7,219.3
-Sousel,226,244.3,291
+Sousel,226.0,244.3,291.0
 Alentejo Central,160.4,182.2,214.1
 Alandroal,223.3,272.6,294.7
-Arraiolos,194.5,208,257.9
+Arraiolos,194.5,208.0,257.9
 Borba,176.6,228.1,256.7
-Estremoz,191.2,250,269.5
+Estremoz,191.2,250.0,269.5
 Évora,122.5,136.7,170.5
 Montemor-o-Novo,203.4,236.9,281.4
 Mora,271.1,302.4,326.5
-Mourão,142.8,148.8,171
-Portel,168.3,210,242.2
+Mourão,142.8,148.8,171.0
+Portel,168.3,210.0,242.2
 Redondo,178.9,182.6,210.9
 Reguengos de Monsaraz,165.8,170.3,198.6
 Vendas Novas,150.7,181.2,226.4
@@ -296,13 +296,13 @@ Alcoutim,475.7,590.5,650.8
 Aljezur,249.3,239.2,240.9
 Castro Marim,203.9,208.6,246.8
 Faro,110.5,115.9,140.4
-Lagoa,96.1,107.9,145
+Lagoa,96.1,107.9,145.0
 Lagos,114.2,113.5,145.8
 Loulé,125.3,119.5,140.3
 Monchique,266.1,360.8,364.2
 Olhão,104.3,105.8,130.6
 Portimão,114.8,102.2,122.5
-São Brás de Alportel,154,146.9,160.4
+São Brás de Alportel,154.0,146.9,160.4
 Silves,173.2,157.1,171.4
 Tavira,186.3,179.4,201.2
 Vila do Bispo,175.7,209.1,217.6
@@ -311,37 +311,37 @@ Região Autónoma dos Açores,60.1,71.6,95.1
 Região Autónoma dos Açores,60.1,71.6,95.1
 Ilha de Santa Maria,59.6,72.4,103.5
 Vila do Porto,59.6,72.4,103.5
-Ilha de São Miguel,45.3,54.3,74
+Ilha de São Miguel,45.3,54.3,74.0
 Lagoa [R.A.A.],35.8,49.4,71.8
 Nordeste,89.8,101.3,132.6
-Ponta Delgada,48,60.9,85
+Ponta Delgada,48.0,60.9,85.0
 Povoação,66.2,82.3,117.2
 Ribeira Grande,33.8,34.4,44.1
 Vila Franca do Campo,48.4,58.6,79.8
-Ilha Terceira,70,84.9,117.4
+Ilha Terceira,70.0,84.9,117.4
 Angra do Heroísmo,72.5,87.7,122.9
 Vila da Praia da Vitória,65.6,80.3,108.7
 Ilha Graciosa,123.6,141.7,151.4
 Santa Cruz da Graciosa,123.6,141.7,151.4
 Ilha de São Jorge,100.6,128.4,165.3
-Calheta [R.A.A.],104.6,137,185.7
+Calheta [R.A.A.],104.6,137.0,185.7
 Velas,97.8,122.1,151.4
 Ilha do Pico,116.9,141.3,155.5
 Lajes do Pico,123.8,164.5,196.8
 Madalena,114.8,123.8,134.9
 São Roque do Pico,111.4,143.7,143.5
-Ilha do Faial,83.1,95,126.2
-Horta,83.1,95,126.2
+Ilha do Faial,83.1,95.0,126.2
+Horta,83.1,95.0,126.2
 Ilha das Flores,105.3,131.6,158.9
 Lajes das Flores,120.4,145.8,176.5
 Santa Cruz das Flores,96.8,122.1,147.8
-Ilha do Corvo,145,179.2,131.1
-Corvo,145,179.2,131.1
+Ilha do Corvo,145.0,179.2,131.1
+Corvo,145.0,179.2,131.1
 Região Autónoma da Madeira,71.4,84.9,126.5
 Região Autónoma da Madeira,71.4,84.9,126.5
-Ilha da Madeira,71.7,85.1,127
+Ilha da Madeira,71.7,85.1,127.0
 Calheta [R.A.M.],124.6,146.7,186.3
-Câmara de Lobos,33.8,47.9,79
+Câmara de Lobos,33.8,47.9,79.0
 Funchal,81.6,100.3,152.5
 Machico,58.6,83.1,148.5
 Ponta do Sol,84.1,91.1,126.5
