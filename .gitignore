@@ -7,3 +7,4 @@ raw_data/
 .env
 *.pdf
 *.gpkg
+stage_2/raw_test
