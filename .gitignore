@@ -8,3 +8,4 @@ raw_data/
 *.pdf
 *.gpkg
 stage_2/raw_test
+stage_2/map_data
