@@ -9,5 +9,4 @@ raw_data/
 *.gpkg
 stage_2/raw_test
 stage_2/map_data
-*.csv
 *.geojson
