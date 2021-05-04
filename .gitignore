@@ -9,4 +9,5 @@ raw_data/
 *.gpkg
 stage_2/raw_test
 stage_2/.DS_Store
+stage_3/raw_data
 *.csv
