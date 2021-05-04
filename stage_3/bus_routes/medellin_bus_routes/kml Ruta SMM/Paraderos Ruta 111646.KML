@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RUTA 106 TRES ESQUINAS.kml</name>
+	<Schema name="/Users/Felipe/Desktop/ARCHIVOS KML_ALEJO/Ruta 106 Tres esquinas/R90254.kml" id="_0254.schema">
+		<SimpleField type="float" name="ID_PARADER"></SimpleField>
+		<SimpleField type="float" name="ID_RUTA"></SimpleField>
+		<SimpleField type="string" name="NOMBRE"></SimpleField>
+		<SimpleField type="string" name="DIRECCION"></SimpleField>
+		<SimpleField type="string" name="ORIENTACIO"></SimpleField>
+		<SimpleField type="int" name="NRO_PARADA"></SimpleField>
+		<SimpleField type="float" name="ID_GFLOTA"></SimpleField>
+		<SimpleField type="float" name="POINT_X"></SimpleField>
+		<SimpleField type="float" name="POINT_Y"></SimpleField>
+	</Schema>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1dff22</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon-217">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>/Users/Felipe/Desktop/ARCHIVOS KML_ALEJO/Ruta 106 Tres esquinas/images/icon-217.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+	</Style>
+	<StyleMap id="msn_icon-217">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-217</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-217</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon-217">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>/Users/Felipe/Desktop/ARCHIVOS KML_ALEJO/Ruta 106 Tres esquinas/images/icon-217.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1dff22</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>RUTA 106 TRES ESQUINAS</name>
+		<open>1</open>
+		<Placemark>
+			<name>111646</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-75.53875369816555,6.248585007015536,0 -75.53884840133402,6.248492158790273,0 -75.53909858827667,6.248433162030765,0 -75.53934815597025,6.24837563690077,0 -75.53955000106301,6.248328913781631,0 -75.53968320457882,6.24830008746914,0 -75.53979781211871,6.248276231727657,0 -75.53987451689565,6.248207860850554,0 -75.53996094699605,6.248133146317609,0 -75.54025317058476,6.248053783455386,0 -75.54044892060169,6.24799499606642,0 -75.54063365103337,6.247942060923981,0 -75.5408138086211,6.24785730357469,0 -75.54103415162381,6.247738269186444,0 -75.54115488484976,6.247678260131329,0 -75.54123581151305,6.247652123480497,0 -75.54128774503234,6.247672195425736,0 -75.54133422872225,6.247743193992364,0 -75.5413120546657,6.247872858956164,0 -75.54129422355825,6.248012957954254,0 -75.54128533150872,6.248167780861735,0 -75.54129521747761,6.248314463495774,0 -75.54129626229081,6.248474402542307,0 -75.54129738460492,6.248603443456058,0 -75.54130748048706,6.248716746953838,0 -75.54132650220885,6.248806234298278,0 -75.54133906615974,6.24885233575217,0 -75.54142480126227,6.248917788778648,0 -75.54151647387351,6.248957035497643,0 -75.54157872244434,6.248979672191329,0 -75.54167642363696,6.248975297587669,0 -75.541775200955,6.248976892364254,0 -75.54181696184413,6.248872724829363,0 -75.54184618397807,6.248817497916503,0 -75.54192405057231,6.248826683502295,0 -75.54200008605977,6.248705481599925,0 -75.54205853532551,6.248643093810996,0 -75.54214050819982,6.248623353626261,0 -75.54236199348095,6.24860950174044,0 -75.54271056968462,6.248609440887505,0 -75.54285542688574,6.24860642859474,0 -75.5430286786435,6.248595368467089,0 -75.543148266754,6.248600504393412,0 -75.54323665669689,6.248614192848678,0 -75.54329568637542,6.248696218552604,0 -75.54333603486373,6.248847712928699,0 -75.54341863599149,6.248939261874855,0 -75.54358305673284,6.249121147913355,0 -75.54367949706595,6.249213708481751,0 -75.54376421572763,6.249285589274753,0 -75.54388501965094,6.249311934207276,0 -75.54400122057731,6.249307032548883,0 -75.54412240972458,6.249220541046711,0 -75.54428772739466,6.249106250234972,0 -75.54437571140396,6.249057032092792,0 -75.54444917092116,6.249018622446664,0 -75.5445208044506,6.249025184294394,0 -75.54457369825117,6.249053148360183,0 -75.54465653394874,6.249135998062112,0 -75.5447363512627,6.249203973621694,0 -75.54477492556902,6.249254583159467,0 -75.54484475675082,6.249289754693105,0 -75.54496117389118,6.249265812560144,0 -75.54513010671349,6.249127337710906,0 -75.54526648279911,6.249025712436001,0 -75.54535618922107,6.248955684391671,0 -75.54548901721319,6.248796238275752,0 -75.54564203922723,6.248628452967071,0 -75.5457538883414,6.248500383256308,0 -75.54584956104142,6.248460258544577,0 -75.54596315730852,6.248497882977031,0 -75.54610809208921,6.248605862274308,0 -75.54619793014035,6.248727426478132,0 -75.54625942508203,6.248941281151974,0 -75.54626129432708,6.249040495599211,0 -75.54625442181961,6.249093253587954,0 -75.54630238040039,6.249120681690827,0 -75.54638725022856,6.249069931017314,0 -75.54663502575681,6.248922614232355,0 -75.54688717970296,6.248766178267784,0 -75.54711658591825,6.248636613360986,0 -75.54737044746598,6.248489339091387,0 -75.54753905124304,6.248422005317013,0 -75.54770625591024,6.248358940242998,0 -75.5478449128275,6.248359941403684,0 -75.54790610610421,6.248397218706289,0 -75.54789144869143,6.248568434441199,0 -75.54787672688342,6.248694123139291,0 -75.54785007619331,6.248901407221483,0 -75.54789981567602,6.249012775012137,0 -75.54798958858584,6.249201388487921,0 -75.54802489200003,6.249291918979355,0 -75.54808947758889,6.249378267060262,0 -75.54819308426316,6.249474263025964,0 -75.54842866810813,6.249558804664721,0 -75.5486582471719,6.249644848942975,0 -75.54882649289593,6.249680893281866,0 -75.54907335032112,6.249597905246506,0 -75.54940161622739,6.24949290315727,0 -75.54974495839103,6.249366667734377,0 -75.54992494815581,6.249324372349839,0 -75.55016272166762,6.249275548946895,0 -75.55057637203692,6.249217402671436,0 -75.55106859701036,6.249146394529379,0 -75.55140426373339,6.249098435188212,0 -75.55171328041588,6.249045267340241,0 -75.55203596833141,6.24900448777512,0 -75.55226291803017,6.248983289550091,0 -75.55248099516199,6.248989676947645,0 -75.55279899974934,6.249086998233589,0 -75.55300933565647,6.249158473654561,0 -75.55339167881064,6.249332022785167,0 -75.55386980221199,6.249519384237559,0 -75.55414372181842,6.249578502114543,0 -75.55447120934765,6.249653490680199,0 -75.55493508668194,6.249748186763179,0 -75.55523072765119,6.249791849204065,0 -75.55554991843614,6.249840744279684,0 -75.55624139405592,6.249953822000655,0 -75.55640578128887,6.249989260287108,0 -75.55661110252858,6.250057335351783,0 -75.55684009496065,6.250164147852566,0 -75.55706649687947,6.250316290526535,0 -75.55738183874175,6.250587140872042,0 -75.55789097497589,6.251029690863112,0 -75.55853999786881,6.251596666168267,0 -75.55922717793672,6.252189308943573,0 -75.55954719573978,6.252464982522354,0 -75.55972759512392,6.252618052825087,0 -75.5598582535315,6.25272986672309,0 -75.55994625806112,6.252719425521645,0 -75.56021177510976,6.252337341116425,0 -75.56044573758517,6.252051298430538,0 -75.56062045343623,6.251700460296917,0 -75.56076756296645,6.251412975807994,0 -75.56093170781368,6.25104940103803,0 -75.56101092764422,6.25086713896767,0 -75.56104333636675,6.250714772207245,0 -75.56097035661799,6.250634624911044,0 -75.56053824063814,6.250347761039627,0 -75.560293152832,6.250187254955464,0 -75.55993093949446,6.249963522508524,0 -75.55964132374385,6.249767887422042,0 -75.55920492555114,6.24946807772628,0 -75.55887747659114,6.249260202759976,0 -75.55887051679127,6.249203103655407,0 -75.55892605499237,6.249109840750789,0 -75.55916205316433,6.248816259462512,0 -75.55933639099467,6.248621641473241,0 -75.55947454388598,6.248464114956668,0 -75.55962179484388,6.24809041299399,0 -75.55973216685476,6.247804314627859,0 -75.55985134651299,6.24771901849825,0 -75.55990939858273,6.247628589285403,0 -75.55996710263531,6.247509335579164,0 -75.55989011284858,6.247363358870354,0 -75.55984785625486,6.2472947018908,0 -75.55986865115813,6.247177976055143,0 -75.56010467366062,6.246722140856037,0 -75.5603784982977,6.246136259474439,0 -75.56068389838644,6.245611891279975,0 -75.56097383698715,6.245126293781964,0 -75.56119152999477,6.244699036968365,0 -75.56133047402025,6.244418436918086,0 -75.56140207543196,6.244261162055605,0 -75.56147608558423,6.244196193150535,0 -75.56157013623873,6.244217077258732,0 -75.56188533331715,6.244388753871621,0 -75.56226744589016,6.244573187095769,0 -75.5629659143406,6.244950393656101,0 -75.56340306592007,6.245187255648519,0 -75.56362316178426,6.24529955737339,0 -75.5637711475903,6.245331720018839,0 -75.56383496569991,6.245277971451872,0 -75.56393771781212,6.245094893063445,0 -75.56409985020623,6.244804518532301,0 -75.56424189926278,6.244517285755184,0 -75.56447919013627,6.244048722523757,0 -75.5645742850749,6.243853066002705,0 -75.56464637394097,6.243687573365269,0 -75.56472316800758,6.243691854497566,0 -75.56491007522584,6.243817030118509,0 -75.56517674370039,6.244005832241833,0 -75.56536194447276,6.244132060660094,0 -75.56567618708488,6.24433929415209,0 -75.56589359276508,6.244477128661752,0 -75.56603754492191,6.244568192680589,0 -75.56609136065129,6.244555805521462,0 -75.56616156101457,6.244448916211757,0 -75.5662357966457,6.244270530643797,0 -75.56632567999526,6.244061686005069,0 -75.56625467444762,6.243907041127335,0 -75.5662076417336,6.243747004374741,0 -75.56622204877188,6.243439655888625,0 -75.56621384420123,6.243227674552442,0 -75.56618944763339,6.243064038090481,0 -75.56594234891689,6.242981540132798,0 -75.56561486193579,6.242857740817422,0 -75.56519508278335,6.242675101033388,0 -75.56479062367987,6.242510778591425,0 -75.56452789271293,6.242390445683317,0 -75.56423361588404,6.242266453188591,0 -75.56398313366626,6.242120260085049,0 -75.56365967266423,6.241887238181163,0 -75.56333670374372,6.241677750843609,0 -75.56324172507615,6.241626627220881,0 -75.56313649233375,6.241679054176569,0 -75.56283646819691,6.241851863749906,0 -75.56264801235984,6.241950510831662,0 -75.56256558002082,6.242040116673091,0 -75.56248948618772,6.242156874378151,0 -75.56216311534578,6.24233338940345,0 -75.56187476536637,6.242422299559729,0 -75.56141222830203,6.242398251736247,0 -75.56104984807486,6.242260557142645,0 -75.56066306676664,6.241966544769183,0 -75.5604560570799,6.241941132685567,0 -75.56024202330744,6.242023198699926,0 -75.56011624211585,6.242106861164197,0 -75.56005935167782,6.242189182542775,0 -75.56004786542682,6.242306462355726,0 -75.55984913002078,6.24248757158201,0 -75.5591574884708,6.242966291748361,0 -75.5582343914158,6.243770851301446,0 -75.55809820862831,6.243808307763504,0 -75.55758941386252,6.244388835367925,0 -75.55871444055859,6.244969251139466,0 -75.55956269756183,6.245414635620214,0 -75.55956524669468,6.245518344916599,0 -75.55947016713263,6.24570558377924,0 -75.55916942837935,6.246206292292445,0 -75.55892547326117,6.24658247701475,0 -75.55870646435382,6.24699076461309,0 -75.55854961917389,6.247258129545203,0 -75.55830949495865,6.247652127332163,0 -75.55807015023372,6.248032631825652,0 -75.55792061132611,6.248273493564588,0 -75.55770474115828,6.248607685376661,0 -75.55735572057567,6.249197802031679,0 -75.55715872800913,6.249549636968526,0 -75.55702195102879,6.249758532867562,0 -75.55697272407487,6.249826031177679,0 -75.55683266288585,6.249844058124445,0 -75.5566087060366,6.249834999297267,0 -75.5564350989856,6.24984657014294,0 -75.55627097553509,6.249882404567753,0 -75.55604878643592,6.249857510389451,0 -75.5556780466458,6.249785423726825,0 -75.55450881986636,6.249599147206526,0 -75.55418503554432,6.249509778695444,0 -75.55391233225217,6.249431903080902,0 -75.55343296129728,6.249242037686585,0 -75.55305873599822,6.249080858676033,0 -75.55249826026153,6.248932824588658,0 -75.55226211261412,6.248902475650246,0 -75.55185472182988,6.248971771176502,0 -75.55128964436274,6.249049345145767,0 -75.55097138828697,6.249084355922451,0 -75.5501373504017,6.249211982302873,0 -75.54980062370692,6.24926690101961,0 -75.54953842870529,6.249356652952931,0 -75.54925649322132,6.249460183896896,0 -75.54900257132401,6.249556455390827,0 -75.54881876162747,6.249599281226681,0 -75.54855241802608,6.249519930142544,0 -75.54834774709008,6.249455382198974,0 -75.54822207600637,6.249419055759621,0 -75.54809870544105,6.249305866722771,0 -75.54799935705728,6.249097881169314,0 -75.54791462602769,6.248883034371437,0 -75.54792834895358,6.248697180582894,0 -75.54795591265633,6.248524988931304,0 -75.54796729105658,6.248403167792999,0 -75.54792899661891,6.24833183192381,0 -75.5478589746364,6.248292875444256,0 -75.54773946782871,6.248273263777605,0 -75.5476087904498,6.248298536539259,0 -75.54745849121893,6.248363519703019,0 -75.54732385222067,6.248448618800417,0 -75.54708847306412,6.248587790691857,0 -75.54689211101095,6.248712201647229,0 -75.54659323441531,6.248884376338089,0 -75.54642770621211,6.248981737553185,0 -75.54634449452981,6.249019043737379,0 -75.54631760470043,6.249008948618971,0 -75.54631152591368,6.248941648368684,0 -75.54628994435061,6.24880890341529,0 -75.54624883759644,6.248697045593985,0 -75.54613365330638,6.248574164379377,0 -75.54598347761052,6.248452742219227,0 -75.5458336457321,6.248404939561404,0 -75.54573216875588,6.24846128711504,0 -75.5456026116079,6.248602359599999,0 -75.54544789627161,6.248775947422456,0 -75.54531461688671,6.248908858179919,0 -75.54515720214432,6.249039385776896,0 -75.54502440791026,6.249149498132192,0 -75.54493703903347,6.249207020068385,0 -75.54488281135279,6.249224116038899,0 -75.54478921902387,6.24917718993798,0 -75.54472740081094,6.249109742125834,0 -75.54466885792806,6.249053866084171,0 -75.54460368002194,6.249012678229128,0 -75.54454620194402,6.248986349953306,0 -75.54443755883185,6.248968985240633,0 -75.54434023686885,6.249014013718646,0 -75.54419383597087,6.249107440731073,0 -75.54408365364091,6.249193313914659,0 -75.54398268958985,6.249253760356698,0 -75.5438833498802,6.249253906663262,0 -75.54379227585586,6.249233312065205,0 -75.54368427260222,6.24912540430689,0 -75.54351589962425,6.248960775261996,0 -75.54340265106676,6.248847724748118,0 -75.54336766423049,6.248755821564655,0 -75.54333274633864,6.248650573829588,0 -75.5432806761053,6.248587425661302,0 -75.54321883123525,6.248576572600289,0 -75.5431610546274,6.248562363481375,0 -75.54306695019906,6.248561795519271,0 -75.54290444864209,6.248565865526244,0 -75.54252086980949,6.248570878786341,0 -75.54225603726756,6.248571324324434,0 -75.54211541555057,6.248585799195876,0 -75.54204487515762,6.248599132603653,0 -75.54196897767305,6.248686477261014,0 -75.54190305607237,6.248795972255015,0 -75.5418265381085,6.248778293112261,0 -75.54178398468295,6.248865939491692,0 -75.54174482687118,6.248941857369888,0 -75.54167045305006,6.248942039605982,0 -75.54158572852207,6.24894886235364,0 -75.54152538240786,6.248929642063075,0 -75.54145993908126,6.248901909149818,0 -75.54141491397114,6.248869042680155,0 -75.54137306929735,6.248830716448858,0 -75.54135087284396,6.248792864639701,0 -75.54134802519913,6.248735005032884,0 -75.54134236306629,6.248639578640371,0 -75.54133385653827,6.248483539363062,0 -75.54133651258449,6.248002072475578,0 -75.54137719878841,6.247725204675398,0 -75.54129606750729,6.247560781638911,0 -75.54062033162992,6.24790668186878,0 -75.53993159220131,6.248109689378416,0 -75.53977473079836,6.248238261833087,0 -75.53881895148851,6.248457856373911,0 -75.53876280653483,6.248517731030471,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="_0254.9">
+			<name>54869</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54869</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 56HH 56HG-48, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">E</SimpleData>
+					<SimpleData name="NRO_PARADA">1</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.54133334200</SimpleData>
+					<SimpleData name="POINT_Y">6.24883761500</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.541333342,6.248837615000071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.8">
+			<name>54804</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54804</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 56HG 20-74, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">N</SimpleData>
+					<SimpleData name="NRO_PARADA">2</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.54302642600</SimpleData>
+					<SimpleData name="POINT_Y">6.24860473200</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.543026426,6.24860473200005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.17">
+			<name>54727</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54727</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 57B x CR 24  , Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">N</SimpleData>
+					<SimpleData name="NRO_PARADA">3</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.54471384000</SimpleData>
+					<SimpleData name="POINT_Y">6.24921468000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.54471384,6.249214680000021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.14">
+			<name>54527</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54527</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 27 x CL 57C, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">E</SimpleData>
+					<SimpleData name="NRO_PARADA">4</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.54787788200</SimpleData>
+					<SimpleData name="POINT_Y">6.24840127300</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.547877882,6.24840127300007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.3">
+			<name>54335</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54335</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 58 31-18, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">N</SimpleData>
+					<SimpleData name="NRO_PARADA">5</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.55145814700</SimpleData>
+					<SimpleData name="POINT_Y">6.24912412100</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.55145814699991,6.249124121000021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.18">
+			<name>54108</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54108</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 58 37-28, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">N</SimpleData>
+					<SimpleData name="NRO_PARADA">6</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.55554321500</SimpleData>
+					<SimpleData name="POINT_Y">6.24986131300</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5555432149999,6.24986131300005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.20">
+			<name>53820</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">53820</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 58 42-56, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">N</SimpleData>
+					<SimpleData name="NRO_PARADA">7</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.55960336400</SimpleData>
+					<SimpleData name="POINT_Y">6.25259983100</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5596033639999,6.252599831000049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.6">
+			<name>53733</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">53733</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 43 55-35, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">W</SimpleData>
+					<SimpleData name="NRO_PARADA">8</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.56094351700</SimpleData>
+					<SimpleData name="POINT_Y">6.25109302400</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5609435169999,6.25109302400006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.13">
+			<name>53789</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">53789</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 40 52-07, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">N</SimpleData>
+					<SimpleData name="NRO_PARADA">9</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.55993173400</SimpleData>
+					<SimpleData name="POINT_Y">6.24770129600</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.559931734,6.24770129600006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.11">
+			<name>53730</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">53730</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 40 49-01, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">W</SimpleData>
+					<SimpleData name="NRO_PARADA">10</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.56098242200</SimpleData>
+					<SimpleData name="POINT_Y">6.24519773000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5609824219999,6.245197730000031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.16">
+			<name>53508</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">53508</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 43 46-43, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">W</SimpleData>
+					<SimpleData name="NRO_PARADA">11</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.56447799100</SimpleData>
+					<SimpleData name="POINT_Y">6.24406629100</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.564477991,6.244066291000021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.15">
+			<name>53392</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">53392</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 43B 44-27, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">W</SimpleData>
+					<SimpleData name="NRO_PARADA">12</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.56622280300</SimpleData>
+					<SimpleData name="POINT_Y">6.24339113500</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.566222803,6.243391135000021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.7">
+			<name>53588</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">53588</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 44 x CR 40, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">W</SimpleData>
+					<SimpleData name="NRO_PARADA">13</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.56329131600</SimpleData>
+					<SimpleData name="POINT_Y">6.24154181200</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.56329131599991,6.24154181200004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.4">
+			<name>53900</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">53900</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 39 x CL 51, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">E</SimpleData>
+					<SimpleData name="NRO_PARADA">14</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.55852729800</SimpleData>
+					<SimpleData name="POINT_Y">6.24722583700</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5585272979999,6.24722583700003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parque Boston 1</name>
+			<open>1</open>
+			<styleUrl>#msn_icon-217</styleUrl>
+			<Point>
+				<coordinates>-75.55788333333334,6.248258333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.21">
+			<name>54095</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54095</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 58 37-43, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">S</SimpleData>
+					<SimpleData name="NRO_PARADA">16</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.55567518900</SimpleData>
+					<SimpleData name="POINT_Y">6.24977447400</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5556751889999,6.24977447400005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.19">
+			<name>54357</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54357</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 58 30-89, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">S</SimpleData>
+					<SimpleData name="NRO_PARADA">17</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.55097796900</SimpleData>
+					<SimpleData name="POINT_Y">6.24909304400</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.550977969,6.24909304400006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.2">
+			<name>54543</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54543</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 57CC x CR 26, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">S</SimpleData>
+					<SimpleData name="NRO_PARADA">18</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.54767569600</SimpleData>
+					<SimpleData name="POINT_Y">6.24827875700</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5476756959999,6.24827875700004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.5">
+			<name>54725</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54725</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 24 57B-37, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">S</SimpleData>
+					<SimpleData name="NRO_PARADA">19</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.54473436900</SimpleData>
+					<SimpleData name="POINT_Y">6.24908318900</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.544734369,6.24908318900003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.12">
+			<name>54808</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54808</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CL 56HG 20-61, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">S</SimpleData>
+					<SimpleData name="NRO_PARADA">20</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.54292128000</SimpleData>
+					<SimpleData name="POINT_Y">6.24855464600</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.54292128,6.24855464600006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="_0254.1">
+			<name>54867</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#_0254.schema">
+					<SimpleData name="ID_PARADER">54867</SimpleData>
+					<SimpleData name="ID_RUTA">90254</SimpleData>
+					<SimpleData name="DIRECCION">CR 18C 56HG-41, Medellin</SimpleData>
+					<SimpleData name="ORIENTACIO">W</SimpleData>
+					<SimpleData name="NRO_PARADA">21</SimpleData>
+					<SimpleData name="ID_GFLOTA">111646</SimpleData>
+					<SimpleData name="POINT_X">-75.54136687300</SimpleData>
+					<SimpleData name="POINT_Y">6.24874362700</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.541366873,6.248743627000069,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
