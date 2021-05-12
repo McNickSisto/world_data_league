@@ -10,4 +10,5 @@ raw_data/
 stage_2/raw_test
 stage_2/.DS_Store
 stage_3/raw_data
+stage_3/data
 *.csv
