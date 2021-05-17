@@ -13,3 +13,4 @@ stage_3/raw_data
 stage_3/data
 stage_4/data
 *.csv
+stage_1/.DS_Store
