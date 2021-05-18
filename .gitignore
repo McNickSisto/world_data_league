@@ -14,3 +14,5 @@ stage_3/data
 stage_4/data
 *.csv
 stage_1/.DS_Store
+stage_4/cache
+stage_4/map_data
